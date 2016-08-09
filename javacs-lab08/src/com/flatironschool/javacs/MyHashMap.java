@@ -40,8 +40,11 @@ public class MyHashMap<K, V> extends MyBetterMap<K, V> implements Map<K, V> {
 	 * 
 	 */
 	protected void rehash() {
-        // TODO: fill this in.
-        throw new UnsupportedOperationException();
+        //get entries
+        //delete maps
+        //double # maps
+        //repopulate
+       
 	}
 
 	/**
